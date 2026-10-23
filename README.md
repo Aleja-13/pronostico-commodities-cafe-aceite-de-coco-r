@@ -21,7 +21,7 @@ Series mensuales de precios de dos materias primas: descomposición, pruebas de 
 
 ## Datos
 
-Las series (~740 meses, desde 1960) parecen venir de la base mensual de precios de materias primas del Banco Mundial; **fuente por confirmar**.
+Las series mensuales de precios (~740 meses, desde 1960) vienen de la base de precios de materias primas del Banco Mundial (Commodity Price Data, "Pink Sheet").
 
 ## Autoría
 
